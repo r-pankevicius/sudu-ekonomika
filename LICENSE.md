@@ -1,5 +1,12 @@
-##### Attribution 4.0 International (CC BY 4.0)
+﻿##### Attribution 4.0 International (CC BY 4.0)
 
 https://creativecommons.org/licenses/by/4.0/legalcode
 
 LT: https://creativecommons.org/licenses/by/4.0/legalcode.lt
+
+##### Išskyrus, Except:
+img/sudu-ekonomika-s.jpg, img/sudu-ekonomika.jpg
+
+Rūpintojėlis: A. Teresius, https://galerijamart.lt/
+
+Biržos indeksai: https://usatoday.com/

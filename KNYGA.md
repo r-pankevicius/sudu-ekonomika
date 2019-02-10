@@ -45,6 +45,11 @@ Dar gražiau gaunasi, kai tavo formulės yra gražios, kai tu šventai tiki savo
 ----
 Nuorodos:
 https://lt.wikipedia.org/wiki/Komutatyvumas
+
 https://lt.wikipedia.org/wiki/Aksioma
+
 http://www.pipedija.com/index.php/Geometrija
+
 https://www.patreon.com/maslionka
+
+https://www.youtube.com/watch?v=YW4BaFTEgdM
