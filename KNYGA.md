@@ -26,8 +26,6 @@ Taigi, ekonomikos mokslas neveikia arba veika gana prastai, kaip realius dalykus
 
 ###### Slaptasis protokolas 2: Matematika
 
-**Dėmesio, protokole įsivėlė klaida, kurią bandysiu pataisyti.**
-
 Matematika atrodo toks baisus mokslas, kad net kyla diskusijos, gal vertėtų ją išmesti iš privalomųjų egzaminų, kad nekelti streso abiturientams.
 
 Šiaip žmogus intuityviai supranta matematiką pakankamai gerai, bet išgirdęs formalią matematinę kalbą tiesiog nesupranta nieko. Išgirdęs tokį sakinį: "Dvinarė operacija * yra komutatyvi aibės S atžvilgiu, jei galioja lygybė x * y = y * x kiekvienam x ir y iš aibės S", turbūt išpūsi akis. Bet, jei mokytojas paaiškins, kad skaičių sudėtis tokia yra, nes ir prie vieno pridėjęs du, ir prie dviejų pridėjęs vieną gausi lygiai tą patį - tris. Ir dar, kad dalyba tokia nėra: 2:4 nera lygu 4:2. Taigi, 2 vaikams pasidalinti 4 obuolius yra ne tas pats, kas 4 vaikams pasidalinti 2 obuolius. Tada pasijusi gan neblogai suprantantis tą kom...kom...e-e-e...komutatyvumą. Jeigu tiksliųjų mokslų mokytojai ir dėstytojai savo teiginius iliustruotų paprastais pavyzdžiais, kaip lengvai mokiniai suprastų tai ir atsimintų!
@@ -44,6 +42,7 @@ Dar gražiau gaunasi, kai tavo formulės yra gražios, kai tu šventai tiki savo
 
 ----
 Nuorodos:
+
 https://lt.wikipedia.org/wiki/Komutatyvumas
 
 https://lt.wikipedia.org/wiki/Aksioma
@@ -53,3 +52,7 @@ http://www.pipedija.com/index.php/Geometrija
 https://www.patreon.com/maslionka
 
 https://www.youtube.com/watch?v=YW4BaFTEgdM
+
+###### Slaptasis protokolas 3: Kas, kaip ir kodėl?
+
+Dar nesugalvojau, ką aš parašysiu, bet kažką parašysiu. Nes nėra to buvę, kad kažkas nebūtų.
