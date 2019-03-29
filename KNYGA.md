@@ -1,7 +1,7 @@
 ﻿# Šūdų ekonomika: kaip virėjos tampa investuotojomis
 ![alt text](img/sudu-ekonomika-s.jpg "")
 
-###### Slaptasis protokolas 1: Įvadas
+#### Slaptasis protokolas 1: Įvadas
 
 Gyvename laikais ekonomikos, kuri neveikia taip, kad būtų kažkoks bent kiek panašus į realybę mokslas, ją aprašantis. Ekonomistai nieko negali pasakyti, kas įvyks net per šiuos metus, nekalbant apie tai, kas bus toliau.
 
@@ -24,7 +24,7 @@ Be to, tave jau ilgai moko, kad yra kažkokia "laisva rinka", kuri automatiškai
 Taigi, ekonomikos mokslas neveikia arba veika gana prastai, kaip realius dalykus aprašantis mokslas o kodėl taip yra, bandysiu surašyti kitam slaptam protokole. Ar dar kitam...
 
 
-###### Slaptasis protokolas 2: Matematika
+#### Slaptasis protokolas 2: Matematika
 
 Matematika atrodo toks baisus mokslas, kad net kyla diskusijos, gal vertėtų ją išmesti iš privalomųjų egzaminų, kad nekelti streso abiturientams.
 
@@ -53,6 +53,6 @@ https://www.patreon.com/maslionka
 
 https://www.youtube.com/watch?v=YW4BaFTEgdM
 
-###### Slaptasis protokolas 3: Kas, kaip ir kodėl?
+#### Slaptasis protokolas 3: Kas, kaip ir kodėl?
 
 Dar nesugalvojau, ką aš parašysiu, bet kažką parašysiu. Nes nėra to buvę, kad kažkas nebūtų.
