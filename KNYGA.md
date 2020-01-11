@@ -55,4 +55,6 @@ https://www.youtube.com/watch?v=YW4BaFTEgdM
 
 #### Slaptasis protokolas 3: Kas, kaip ir kodėl?
 
-Dar nesugalvojau, ką aš parašysiu, bet kažką parašysiu. Nes nėra to buvę, kad kažkas nebūtų.
+Dar nesugalvojau, ką aš parašysiu, bet kažką parašysiu. Nes nėra taip buvę, kad kažkaip nebūtų.
+
+Ir štai, šitą skyrių už mane parašė Matt Stoller, štai ir [angliškas tekstas](https://mattstoller.substack.com/p/what-is-the-point-of-economics). 
