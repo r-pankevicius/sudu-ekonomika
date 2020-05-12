@@ -11,3 +11,6 @@ Note that the financial sector is not a part of that economy - & not by my choic
 #### Junk Bond Kings
 https://mattstoller.substack.com/p/is-private-equity-having-its-minsky
 
+#### Algimantas Rusteika. Pasislėpti nepavyks niekam
+http://www.propatria.lt/2020/05/algimantas-rusteika-pasislepti-nepavyks.html
+
