@@ -13,3 +13,8 @@ https://mattstoller.substack.com/p/is-private-equity-having-its-minsky
 
 #### Ray Dalio požiūris ir situacijos analizė
 https://www.marketwatch.com/story/billionaire-investor-ray-dalio-on-capitalisms-crisis-the-world-is-going-to-change-in-shocking-ways-in-the-next-five-years-2020-09-17?mod=home-page
+
+#### Citata apie Reigano eroje išaukštintą "save reguliuojančios rinkos ekonomikos" krizę
+So we’re in a very different environment from 2008. Back then, bankers and businessmen were panicking as their Reagan-era ideological assumption that markets were natural phenomena clashed with a collapsing financial system requiring political action. Today, the illusions are gone. 
+
+https://mattstoller.substack.com/p/how-would-president-biden-approach
